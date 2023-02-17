@@ -4,7 +4,7 @@
         public displayDigits: number[] = [0, 0, 0, 0]
 
         //% help=TM1650Display weight=76
-        //% blockId=TM1650Display_contructor block="TM1650Display|x %x|y %y"
+        //% blockId=TM1650Display.contructor block="TM1650Display|x %x|y %y"
         //% parts="tm1650"
         constructor(clock: DigitalPin = DigitalPin.P1, data: DigitalPin = DigitalPin.P0) {
             this.clockpin = clock

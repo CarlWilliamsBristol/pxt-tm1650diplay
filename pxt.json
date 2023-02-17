@@ -1,5 +1,5 @@
 {
-    "name": "TM1650package",
+    "name": "TM1650Display",
     "description": "",
     "dependencies": {
         "core": "*",
